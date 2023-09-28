@@ -256,3 +256,5 @@ api.listen(porta, () => {
 
 #### Execute o comando no terminal gitBash.
 ```
+npm run start
+```
